@@ -1,4 +1,4 @@
-# Flutter shop App.
+# Flutter Shop App.
 
 
 
